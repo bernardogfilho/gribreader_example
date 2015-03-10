@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="jgrib">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jgrib_beta7/lib/jgrib.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jgrib_beta7/lib/log4j-1.2.13.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
